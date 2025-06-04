@@ -4,4 +4,4 @@ Here are some templates for biblio categories
 - [Book authored](https://github.com/jcowey/biblio/blob/main/book_authored.md)
 - [Book edited](https://github.com/jcowey/biblio/blob/main/book_edited.md)
 - [Article in a journal](https://github.com/jcowey/biblio/blob/main/article_journal.md)
-- Article in a book
+- [Article in a book](https://github.com/jcowey/biblio/blob/main/article_book.md)
